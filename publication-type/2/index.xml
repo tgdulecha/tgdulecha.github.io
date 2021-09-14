@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Tinsae Gebrechristos Dulecha</title>
+    <link>https://tgdulecha.github.io/publication-type/2/</link>
+      <atom:link href="https://tgdulecha.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tgdulecha.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://tgdulecha.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Neural reflectance transformation imaging</title>
+      <link>https://tgdulecha.github.io/publication/dulecha-2020-neural/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://tgdulecha.github.io/publication/dulecha-2020-neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SynthPS: a Benchmark for Evaluation of Photometric Stereo Algorithms for Cultural Heritage Applications</title>
+      <link>https://tgdulecha.github.io/publication/dulecha-2020-synthps/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://tgdulecha.github.io/publication/dulecha-2020-synthps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crack Detection in Single-and Multi-Light Images of Painted Surfaces using Convolutional Neural Networks</title>
+      <link>https://tgdulecha.github.io/publication/dulecha-2019-crack/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://tgdulecha.github.io/publication/dulecha-2019-crack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MLIC-Synthetizer: a synthetic Multi-Light Image Collection Generator</title>
+      <link>https://tgdulecha.github.io/publication/dulecha-2019-mlic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://tgdulecha.github.io/publication/dulecha-2019-mlic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Replicator Equation: Applications Revisited</title>
+      <link>https://tgdulecha.github.io/publication/dulecha-2017-replicator/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://tgdulecha.github.io/publication/dulecha-2017-replicator/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
