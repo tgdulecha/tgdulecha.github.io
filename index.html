@@ -1502,9 +1502,12 @@
                 <form
                   name="contact"
                   method="POST"
-                  netlify
-                  netlify-honeypot="_gotcha"
+                  action="https://formsubmit.co/tinsae.gebrechristos@gmail.com"
                 >
+                  <input type="hidden" name="_subject" value="New message from tgdulecha.github.io" />
+                  <input type="hidden" name="_template" value="table" />
+                  <input type="hidden" name="_captcha" value="false" />
+                  <input type="hidden" name="_next" value="https://tgdulecha.github.io/#contact" />
                   <div class="form-group form-inline">
                     <label class="sr-only" for="inputName">Name</label>
                     <input
@@ -1542,7 +1545,7 @@
                   <div class="d-none">
                     <label
                       >Do not fill this field unless you are a bot:
-                      <input name="_gotcha"
+                      <input name="_honey"
                     /></label>
                   </div>
 
